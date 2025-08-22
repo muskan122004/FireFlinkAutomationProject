@@ -15,6 +15,11 @@ public class Task4CreateSalesOrderWithMandatoryFields {
 	public static void main(String[] args) throws IOException {
 		
 		
+		
+		
+		
+		
+		
 FileInputStream fis = new FileInputStream("C:\\Users\\User\\Desktop\\SeleniumCourse\\FireFlinkCrmTask\\src\\test\\resources\\CommonData1.properties");
 		
 		Properties pobj= new Properties();
