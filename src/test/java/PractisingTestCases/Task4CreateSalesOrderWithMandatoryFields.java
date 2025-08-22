@@ -18,7 +18,7 @@ public class Task4CreateSalesOrderWithMandatoryFields {
 		
 		
 		
-		
+		//---------Framework--------
 		
 FileInputStream fis = new FileInputStream("C:\\Users\\User\\Desktop\\SeleniumCourse\\FireFlinkCrmTask\\src\\test\\resources\\CommonData1.properties");
 		
