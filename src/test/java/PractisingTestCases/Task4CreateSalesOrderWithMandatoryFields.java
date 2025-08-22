@@ -20,6 +20,8 @@ public class Task4CreateSalesOrderWithMandatoryFields {
 		
 		//---------Framework--------
 		
+		//Changes done
+		
 FileInputStream fis = new FileInputStream("C:\\Users\\User\\Desktop\\SeleniumCourse\\FireFlinkCrmTask\\src\\test\\resources\\CommonData1.properties");
 		
 		Properties pobj= new Properties();
